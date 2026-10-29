@@ -1,0 +1,4 @@
+# Normalise line endings so Windows clones do not produce CRLF diffs.
+* text=auto eol=lf
+*.md text eol=lf
+LICENSE text eol=lf
