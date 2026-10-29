@@ -2,7 +2,7 @@
 
 > [English](en/README.md) · [报告全文](REPORT.md) · [Full report (English)](en/REPORT.md)
 
-一台机器上 Apex Legends 在 DX12 迁移后帧率断崖式下降的诊断记录，以及解决该问题的三个控制台变量。
+Apex Legends 在 DX12 迁移后帧率断崖式下降的诊断记录，以及解决该问题的三个控制台变量。
 
 ## 修复方法
 
